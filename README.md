@@ -5,9 +5,9 @@ Single-phase fluid is driven through a randomly packed bed. A
 live velocity heatmap with streamline tracers is simulated and bulk permeability in real time is computed,
 showing how Darcy's law emerges from messy pore-scale physics.
 
-**[▶ Live demo](https:/Meegaj/.github.io/lbm-pore-flow.html/)** *(enable GitHub Pages — see below)*
+**[▶ Live demo](https:/Meegaj/.github.io/lbm-pore-flow/)**
 
-No build step, no dependencies, no server. Open `index.html` in any modern browser.
+No build step, no dependencies, no server. Open `lbm_pore_flow.html` in any modern browser.
 
 ---
 
