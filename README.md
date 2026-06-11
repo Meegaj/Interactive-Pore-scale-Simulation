@@ -7,7 +7,7 @@ showing how Darcy's law emerges from messy pore-scale physics.
 
 <img width="873" height="549" alt="Screenshot 2026-06-11 at 12 01 33 AM" src="https://github.com/user-attachments/assets/d8563bf0-43f1-45e1-be42-36ebac60a39b" />
 
-**[▶ Live demo](https:/Meegaj/.github.io/lbm-pore-flow/)**
+**[▶ Live demo](https:/Meegaj/.github.io/lbm_pore_flow/)**
 
 No build step, no dependencies, no server. Open `lbm_pore_flow.html` in any browser (Safari, Firefox, Chrome etc).
 
