@@ -11,7 +11,7 @@ No build step, no dependencies, no server. Open `lbm_pore_flow.html` in any mode
 
 ---
 
-## What it simulates
+## Simulation Parameters
 
 | Aspect | Implementation |
 |---|---|
@@ -49,8 +49,8 @@ This mirrors digital rock physics workflows, where Δx comes from micro-CT scann
   push it high and watch k dip slightly as inertial effects appear.
 - **Viscosity** — relaxation time τ, hence ν = (τ − ½)/3.
 - **Grain density** — number of grains in the pack. Regenerate to see k swing with porosity.
-- **New grain pack** — new random geometry. The core teaching moment: permeability is a
-  property of the *geometry*, not the push.
+- **New grain pack** — new random geometry. The key here is to show that permeability is a
+  property of the *geometry*, not the drive.
 - **Flow tracers** — toggle the streamline particles.
 
 ## Key Insights
